@@ -16,4 +16,7 @@ Actualmente mis códigos apestan, pero algún día seré **Hokage**, de veras. �
 
 ## 💻 Proyectos y prácticas
 
-- 🔗 Puedes ver mis prácticas en las carpetas de este repositorio.
+En mi perfil tengo diferentes repositorios según el tipo de práctica o proyecto:
+
+- **`Practicas_C`**: Aquí subo ejercicios personales o proyectos que no tienen que ver con la escuela, para practicar y pulir mis conocimientos en **C**.  
+- **`Practicas_I.I.S.`**: Aquí subo las prácticas que me piden como tarea para la clase **Introducción a la Ingeniería en Desarrollo de Software**.
