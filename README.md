@@ -7,9 +7,9 @@ Actualmente mis códigos apestan, pero algún día seré **Hokage**, de veras. �
 
 ## 📚 Sobre mí
 
-- 🔭 Estudio Ingeniería en Desarrollo de Software en la universidad.  
-- 🌱 Aprendiendo lenguaje de programación C.  
-- 🎮 Me gustan los videojuegos, leer manga y jugar Yu-Gi-Oh de vez en cuando.  
+- 🎬 Además de la programación me gusta editar videos y animar cosas en After Effects.
+- 🕹️ Me gustaría aprender a crear jueguitos y páginas web.
+- 🎮 Me gusta leer manga y jugar Yu-Gi-Oh de vez en cuando.  
 - 🧡 Nada humano me es ajeno. 
 
 ---
